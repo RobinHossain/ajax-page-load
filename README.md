@@ -1,1 +1,2 @@
-"# ajax-page-load" 
+# This is simple Ajax Page load website example.
+
