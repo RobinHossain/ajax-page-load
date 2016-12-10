@@ -12,3 +12,5 @@ li a { text-decoration: none !important; }
     padding: 40px 15px;
     text-align: center;
 }
+
+img#loading{ visibility: hidden}
