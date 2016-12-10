@@ -1,0 +1,14 @@
+
+/* For Body Padding and content */
+body { padding-top: 70px; }
+li a { text-decoration: none !important; }
+
+/* Thumbnail only */
+.thumb {
+    margin-bottom: 30px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
