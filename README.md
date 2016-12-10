@@ -1,4 +1,4 @@
 # Simple Ajax Page load website example.
-Liv Demo:
+Live Demo:
 http://ajax-page-load.w3bd.com/
 
